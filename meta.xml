@@ -1,0 +1,10 @@
+<meta>
+ 
+<file src="flakes/flake1.png"/>
+<file src="flakes/flake2.png"/>
+<file src="flakes/flake3.png"/>
+<file src="flakes/flake4.png"/>
+
+<script src="snow.lua" type="client"/>
+
+</meta>
